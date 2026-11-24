@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+*.local
+AGENTS.md
+PROJECT_MEMORY.md
+public/demos/.originals/
